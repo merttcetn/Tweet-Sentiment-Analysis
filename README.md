@@ -113,5 +113,5 @@ All models were evaluated using:
 
 ## 📬 Contact
 
-Developed by [Mert Çetin](https://github.com/your-username)
+Developed by [Mert Çetin](https://github.com/merttcetn)
 📧 Feel free to reach out for collaborations or feedback!
